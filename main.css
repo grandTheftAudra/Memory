@@ -1,0 +1,92 @@
+body {
+  background-color: grey;
+  padding: 10px;
+}
+
+.facedown {
+  width: 150px;
+  height: 150px;
+  background-color: antiquewhite;
+  margin: 10px;
+  position: absolute;
+}
+
+#card1 {
+  left: 20px;
+  top: 20px;
+}
+
+#card2 {
+  top: 20px;
+  left: 180px;
+}
+
+#card3 {
+  top: 20px;
+  left: 340px; 
+}
+
+#card4 {
+  top: 20px;
+  left: 500px;
+}
+
+#card5 {
+  left: 20px;
+  top: 180px;
+}
+
+#card6 {
+  left: 180px;
+  top: 180px;
+}
+
+#card7 {
+  left: 340px;
+  top: 180px;
+}
+
+#card8 {
+  left: 500px;
+  top: 180px;
+}
+
+#card9 {
+  left: 20px;
+  top: 340px;
+}
+
+#card10 {
+  left: 180px;
+  top: 340px;
+}
+
+#card11 {
+  left: 340px;
+  top: 340px;
+}
+
+#card12 {
+  left: 500px;
+  top: 340px;
+}
+
+#card13 {
+  left: 20px;
+  top: 500px;
+}
+
+#card14 {
+  left: 180px;
+  top: 500px;
+}
+
+#card15 {
+  left: 340px;
+  top: 500px;
+}
+
+#card16 {
+  left: 500px;
+  top: 500px;
+}
